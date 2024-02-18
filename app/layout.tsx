@@ -12,7 +12,7 @@ const IBMPlex = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-    title: "Imagin AI",
+    title: "Imaginify AI",
     description: "AI-powered image generator",
 };
 
